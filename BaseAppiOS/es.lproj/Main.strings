@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Kw-tv-47o"; */
+"4Kw-tv-47o.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8pt-hF-qxt"; */
+"8pt-hF-qxt.text" = "Label";
+
+/* Class = "UILabel"; text = "Api_URL"; ObjectID = "A53-1x-kdj"; */
+"A53-1x-kdj.text" = "URL de API";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EnP-4X-vrt"; */
+"EnP-4X-vrt.text" = "Label";
+
+/* Class = "UILabel"; text = "Enviroment"; ObjectID = "fFW-wA-Y3b"; */
+"fFW-wA-Y3b.text" = "Entorno:";
